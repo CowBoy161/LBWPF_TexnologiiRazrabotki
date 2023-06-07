@@ -1,0 +1,16 @@
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\bin\Debug\WpfLab_01.exe.config
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\bin\Debug\WpfLab_01.exe
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\bin\Debug\WpfLab_01.pdb
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01.csproj.AssemblyReference.cache
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\MainWindow.g.cs
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\App.g.cs
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01_MarkupCompile.cache
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01_MarkupCompile.lref
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\MainWindow.baml
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01.g.resources
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01.Properties.Resources.resources
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01.csproj.GenerateResource.cache
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01.csproj.CoreCompileInputs.cache
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01.exe
+C:\Users\jake9\OneDrive\Рабочий стол\WPF222\WpfLab_01\WpfLab_01\obj\Debug\WpfLab_01.pdb
